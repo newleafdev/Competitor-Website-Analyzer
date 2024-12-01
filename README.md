@@ -1,6 +1,9 @@
 # LLM infused website analyzer 
 A simple usecase for genAI, automating the process of client/competitor research. 
 
+## Requirements
+import necessary python libraries and ensure Ollama is running and Llama3.2:3b is installed.
+
 When I worked as a marketing data analyst it was a time consuming task to write reports on competitors.
 Leveraging LLMs and webscraping, we can automate this process.
 
