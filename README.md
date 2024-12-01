@@ -1,5 +1,6 @@
 # LLM infused website analyzer 
 A simple usecase for genAI, automating the process of client/competitor research. 
+Running on Flask. Once the program is running, access on localhost:5000.
 
 ## Requirements
 import necessary python libraries and ensure Ollama is running and Llama3.2:3b is installed.
